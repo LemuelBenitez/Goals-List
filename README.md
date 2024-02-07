@@ -28,6 +28,10 @@ Purpose: Create a todo/ goals list web application that has **CRUD** and **Secur
                                * H2
                                * MYSQL
 
+# Run Docker using below script
+
+docker run --detach --env MYSQL_ROOT_PASSWORD=dummypassword --env
+MYSQL_USER=goals-user --env MYSQL_PASSWORD=dummygoals --env MYSQL_DATABASE=todos --name mysql --publish 3306:3306 mysql:8-oracle
 
    # Version 1 Images
 

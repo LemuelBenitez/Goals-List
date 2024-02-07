@@ -32,3 +32,14 @@ Purpose: Create a todo/ goals list web application that has **CRUD** and **Secur
 4. Instructions:
 
    # Version 1 Images
+
+   ![ezcv logo](https://github.com/LemuelBenitez/Goals-List/blob/e7388e6ccbd9dabc1737a75731d2a0bb6e17716c/version1.1/Screenshot%202024-02-06%20at%208.52.01%E2%80%AFPM.png)
+
+    ![ezcv logo](https://github.com/LemuelBenitez/Goals-List/blob/e7388e6ccbd9dabc1737a75731d2a0bb6e17716c/version1.1/Screenshot%202024-02-06%20at%208.51.27%E2%80%AFPM.png)
+
+    ![ezcv logo](https://github.com/LemuelBenitez/Goals-List/blob/e7388e6ccbd9dabc1737a75731d2a0bb6e17716c/version1.1/Screenshot%202024-02-06%20at%208.51.15%E2%80%AFPM.png)
+
+    ![ezcv logo](https://github.com/LemuelBenitez/Goals-List/blob/e7388e6ccbd9dabc1737a75731d2a0bb6e17716c/version1.1/Screenshot%202024-02-06%20at%208.51.02%E2%80%AFPM.png)
+
+    ![ezcv logo](https://github.com/LemuelBenitez/Goals-List/blob/e7388e6ccbd9dabc1737a75731d2a0bb6e17716c/version1.1/Screenshot%202024-02-06%20at%208.50.27%E2%80%AFPM.png)
+

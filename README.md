@@ -4,8 +4,7 @@ Purpose: Create a todo/ goals list web application that has **CRUD** and **Secur
 
 ## Specifications
 
-1. Architecture: This web application followed the **MVC** model 1 (model 2 - was omitted as a front controller was not
-   needed for the application) which was implemented via the **Spring Framework:** **spring boot**.
+1. Architecture: This web application followed the **MVC** (model 2 - front controller (dispatcher servlet) was handled by spring in the backend) which was implemented via the **Spring Framework:** **spring boot**.
 
             - Spring modules Used:
                                * Spring Data

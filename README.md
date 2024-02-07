@@ -17,7 +17,7 @@ Purpose: Create a todo/ goals list web application that has **CRUD** and **Secur
             - IDE:
                                * Eclipse (STS)
             - Front-End:
-                               * JHTML (JSP, JSPF)
+                               * Html, JSP, JSPF
                                * Bootstrap, Javascript, CSS
 
             - Back-End:

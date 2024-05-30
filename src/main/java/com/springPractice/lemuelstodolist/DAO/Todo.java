@@ -45,6 +45,15 @@ public class Todo {
 		this.done = done;
 	}
 
+	public Todo(String username, String description, @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate targetDate,
+			boolean done) {
+		super();
+		this.username = username;
+		this.description = description;
+		this.targetDate = targetDate;
+		this.done = done;
+	}
+
 	public int getId() {
 		return id;
 	}
